@@ -1,2 +1,3 @@
 this is new2 file
 Updat some feature
+new commit
